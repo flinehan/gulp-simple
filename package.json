@@ -1,0 +1,23 @@
+{
+  "name": "Frontend-build-processes",
+  "version": "0.0.3",
+  "description": "Build scripts for all things front end",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Linehan",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-changed": "^0.3.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-imagemin": "^0.2.0",
+    "gulp-jshint": "^1.5.3",
+    "gulp-minify-css": "^0.3.1",
+    "gulp-minify-html": "^0.1.3",
+    "gulp-strip-debug": "^0.3.0",
+    "gulp-uglify": "^0.2.1",
+    "gulp-uncss": "^0.4.2"
+  }
+}
